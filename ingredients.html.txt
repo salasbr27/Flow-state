@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ingredients – FlowState</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <h2>FlowState</h2>
+    <div>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="product.html">Product</a>
+      <a href="ingredients.html">Ingredients</a>
+      <a href="benefits.html">Benefits</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Sign Up</a>
+    </div>
+  </nav>
+</header>
+
+<section>
+  <h2>Ingredients Breakdown</h2>
+
+  <h3>L-Citrulline</h3>
+  <p>Supports nitric oxide production for improved blood flow and muscle pump.</p>
+
+  <h3>Electrolytes</h3>
+  <p>Helps maintain hydration, reduce cramping, and support endurance.</p>
+
+  <h3>Taurine</h3>
+  <p>Supports cellular hydration and performance.</p>
+</section>
+
+<footer>
+  <p> 2026 FlowState </p>
+</footer>
+
+</body>
+</html>
